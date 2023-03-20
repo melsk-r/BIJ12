@@ -14,4 +14,3 @@ Bij ons is dat over het algemeen: <br/><br/>
 ## Creatie  index.md
 
 En in die 'docs' folder minimaal een index.md creëren.
-
