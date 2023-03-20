@@ -1,3 +1,21 @@
+baseurl: "/demo-api"
+apiname: "Demo API"
+url: "http://localhost:4000"
+nav:
+  - title: Demo API
+    subnav:
+      - title: Main
+        path: /
+  - title: GitHub Pages 
+    subnav:
+      - title: Introductie
+        path: /intro
+      - title: Speciale technieken
+        path: /speciale-technieken
+plugins:
+  - jekyll-redirect-from
+  - jekyll-remote-theme
+github: melk-r/demo-api
 theme: jekyll-theme-slate
-
 remote_theme: VNG-Realisatie/jekyll-theme-imvertor
+project_name: /demo-api
