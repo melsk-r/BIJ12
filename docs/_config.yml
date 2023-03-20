@@ -1,7 +1,7 @@
 theme: jekyll-theme-slate
 remote_theme: VNG-Realisatie/jekyll-theme-imvertor
-baseurl: "/demo-api"
-apiname: "Demo API"
+baseurl: "/BIJ12"
+# apiname: "BIJ12 documentatie"
 url: "http://localhost:4000"
 nav:
   - title: Demo API
@@ -17,5 +17,5 @@ nav:
 # plugins:
 #  - jekyll-redirect-from
 #  - jekyll-remote-theme
-github: melk-r/demo-api
-project_name: /demo-api
+github: melk-r/BIJ12
+project_name: /BIJ12
