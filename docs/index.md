@@ -9,7 +9,7 @@ title: GitHub Pages
 
 In het Settings/Pages menu van een repository aangeven in welke branch en folder je webcontent staat.
 Bij ons is dat over het algemeen: <br/><br/>
-![GitHub-Pages.jpg](./GitHub-Pages.jpg))
+![GitHub-Pages.jpg](./GitHub-Pages.jpg)
 
 ## Creatie  index.md
 
